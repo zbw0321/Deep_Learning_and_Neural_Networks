@@ -1,5 +1,5 @@
 # Deep_Learning_and_Neural_Networks
-This are three projects about the CNN, RNN(Using LSTM), Reinforcement Learning(Q-Learning).
+This are three projects about the CNN, RNN(Using LSTM) and Reinforcement Learning(Q-Learning).
 ---
 # Project 1: CNN and Perceptron
 The project is devided into several parts: 
