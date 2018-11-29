@@ -1,7 +1,7 @@
 # Deep_Learning_and_Neural_Networks
 This are three projects about the CNN, RNN(Using LSTM), Reinforcement Learning(Q-Learning).
 ---
-# Project 1 CNN and Perceptron
+# Project 1: CNN and Perceptron
 The project is devided into several parts: 
 1. the practice of perceptron Learning
 2. one layer neural network
@@ -11,7 +11,7 @@ The project is devided into several parts:
 The data are using MINST dataset and the prediction accuracy are increaing by using one layer network, two layer network and CNN.
 
 ---
-# Project 2 RNN using LSTM
+# Project 2: RNN using LSTM
 # Introduction
 The purpose of this project is developing a classifier able to detect the sentiment of movie reviews which helps a good understanding of the internal dynamics of TensorFlow and how to implement, train and test neural network.
 
@@ -24,10 +24,10 @@ Preprocessing plays an important role in enhancing the classification accuracy. 
 # 2. define_graph() part
 In this part, we build our training model. We choose to use Long Short-Term Memory(LSTM), this is because RNN is a kind of Neural Network used to process sequential data, but we also need to deal the gradient vanishing problem of original RNN and the LSTM could delay memory loss compared to RNN. Then, we have another problem that is over-fitting. The model has a good accuracy on the training dataset but has a low accuracy on the testing dataset. Thus, we set the dropout rate to handle the over-fitting. Finally, we do the experiments with different parameters to test the effect on model performance.
 
-The training data and validate data are too large cannot to upload in Github, if you have interest, please contact me.
+The training data and validate data are too large to upload in Github, if you have interest, please contact me.
 
 ---
-# Project 3 Deep Reinforcement Learning - Q Learning using Experience Replay
+# Project 3: Deep Reinforcement Learning - Q Learning using Experience Replay
 
 # 1. Project Methodology
 # (1) Neural Network Design
